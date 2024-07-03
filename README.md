@@ -25,9 +25,3 @@ The dataset used for this project contains various features related to laptops, 
 - `Price`: Price of the laptop (target variable)
 
 The primary model used in this project is XGBoost Regressor, which was selected for its efficiency and performance. The model's effectiveness is measured using MAE and RMSE metrics.
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/yourusername/laptop-price-prediction.git
-cd laptop-price-prediction
